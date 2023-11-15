@@ -1,5 +1,7 @@
 Revision history for Perl extension MARC::Record.
 
+2.0.8
+
 2.0.7 Tue May 23 20:41:13 EDT 2017
         [FIXES]
         - RT#108123: clean up MANIFEST.SKIP
